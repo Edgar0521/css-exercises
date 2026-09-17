@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: #ffcccc;
+    font-family: verdana, sans-serif;
+    font-family: "DejaVu Sans", sans-serif;
+}
+
+#title {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd.style {
+    font-size: 24px;
+}
+
+#title2 {
+    background-color: rgb(112, 219, 112);
+    font-size: 24px;
+    font-weight: bold;
+}
